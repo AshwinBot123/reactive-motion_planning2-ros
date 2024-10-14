@@ -1,5 +1,5 @@
-# reactive-motion_planning2-ros
-It represents the region in the robot's velocity space where collisions with other moving objects are possible. By avoiding these velocity obstacles, a robot can plan its motion to ensure collision-free navigation.
+t.
+ Velocity obstacles are a reactive motion planning algorithm specifically designed to dynamically avoid obstacles. This means that the robot can continuously update its planned motion based on the real-time positions and velocities of other objects in its environment.
 
 
 https://github.com/user-attachments/assets/c6cd2d4f-5bf4-408f-8a78-81244d148d31
